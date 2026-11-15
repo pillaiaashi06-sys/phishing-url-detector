@@ -1,6 +1,19 @@
 # Phishing URL Detector
 
 A beginner-friendly Python tool that checks a URL for common phishing red flags and gives it a risk score.
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder_IDE-FF0000?style=for-the-badge&logo=spyder&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-D32F2F?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Beginner_Project-2EA44F?style=for-the-badge)
+
+### 📚 Python libraries used (all built in, nothing to install)
+![urllib](https://img.shields.io/badge/urllib.parse-3776AB?style=flat-square&logo=python&logoColor=white)
+![ipaddress](https://img.shields.io/badge/ipaddress-FFD43B?style=flat-square&logo=python&logoColor=black)
+![difflib](https://img.shields.io/badge/difflib-8A2BE2?style=flat-square&logo=python&logoColor=white)
 
 ## What it checks
 - IP address used instead of a domain name
